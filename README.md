@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning about front-end development
 - 💞️ I’m looking to collaborate on some project to earn experience
-- 📫 Yoou can to reach me by https://www.linkedin.com/in/elaisa-vieira-6949a7a9/.
+- 📫 You can to reach me by https://www.linkedin.com/in/elaisa-vieira-6949a7a9/.
 
 <!---
 elaisavieira/elaisavieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
